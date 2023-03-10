@@ -10,7 +10,7 @@
     "canvases" : [ {
       "@id" : "https://example.org/canvas/6bcb6261-a645-4527-b7c2-ddf5504aafd7",
       "@type" : "sc:Canvas",
-      "height" : 4992,
+      "height" : 5000,
       "width" : 3328,
       "label" : " Cod. Sang. 226",
       "images" : [ {
