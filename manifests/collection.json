@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://eliaskreyenbuehl.github.io/Kurs/manifests/KursManifest.json",
     "label" : "1072205340"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://eliaskreyenbuehl.github.io/Kurs/manifests/manifest_march9.json",
+    "label" : "Wolfram, von Eschenbach: Parzifal, Titurel und Tagelieder - BSB Cgm 19"
   } ]
 }
